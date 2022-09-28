@@ -11,7 +11,7 @@ In addition to opensource data, users can also use synthesis tools to synthesize
 <a name="ICDAR2019-LSVT"></a>
 #### 1. ICDAR2019-LSVT
 - **Data sources**：https://ai.baidu.com/broad/introduction?dataset=lsvt
-- **Introduction**： A total of 45w Chinese street view images, including 5w (2w test + 3w training) fully labeled data (text coordinates + text content), 40w weakly labeled data (text content only), as shown in the following figure:
+- **Introduction**： A total of 450k Chinese street view images, including 5w (2w test + 3w training) fully labeled data (text coordinates + text content), 40w weakly labeled data (text content only), as shown in the following figure:
     ![](../../datasets/LSVT_1.jpg)
 
     (a) Fully labeled data
